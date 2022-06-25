@@ -1,0 +1,60 @@
+{
+	"pages": [
+		{
+				"path" : "pages/login/login",
+				"style" : {
+					"navigationBarTitleText": "登录",
+					"enablePullDownRefresh": false
+				}
+		},{
+			"path" : "pages/current-meeting/current-meeting",
+			"style" : {
+				"navigationBarTitleText": "当前会议",
+				"enablePullDownRefresh": false
+			}
+		},{
+				"path" : "pages/history-meeting/history-meeting",
+				"style" : {
+					"navigationBarTitleText": "历史会议",
+					"enablePullDownRefresh": false
+				}
+    },{
+				"path" : "pages/create-meeting/create-meeting",
+				"style" : {
+					"navigationBarTitleText": "创建会议",
+					"enablePullDownRefresh": false
+				}
+    },{
+				"path" : "pages/update-issues/update-issues",
+				"style" : {
+					"navigationBarTitleText": "修改议题",
+					"enablePullDownRefresh": false
+				}
+    },{
+				"path" : "pages/launch-vote/launch-vote",
+				"style" : {
+					"navigationBarTitleText": "发起投票",
+					"enablePullDownRefresh": false
+				}
+    },{
+				"path" : "pages/back-screen/back-screen",
+				"style" : {
+					"navigationBarTitleText": "回到同屏",
+					"enablePullDownRefresh": false
+				}
+    }
+        
+  ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle":"custom",
+		"app-plus": {
+			"titleView":false
+		},
+		"pageOrientation": "landscape",
+		"rpxCalcMaxDeviceWidth": 2500
+	}
+}

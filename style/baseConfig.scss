@@ -1,0 +1,60 @@
+
+$primary-color50: #F3F0FF;
+$primary-color100: #bfcbf8;
+$primary-color200: #94a9f4;
+$primary-color300: #5C38FF;
+$primary-color400: #6774FF;
+$primary-color500: #b42722;
+$primary-color600: #244ce5;
+$primary-color700: #1f42e2;
+$primary-color800: #1939de;
+$primary-color900: #0f29d8;
+
+/*主题色*/
+$primaryColor: $primary-color500;
+$subPrimaryColor: $primary-color400;
+
+/*主背景色*/
+$primary-backgroundColor: #b42722;
+
+/*选中背景色*/
+$primary-background-color: #b42722;
+
+/*hover背景色*/
+$hover-background-color: #F8F8F8;
+
+//阴影
+$shadowColor: rgba(41,83,232,0.20);
+
+/*链接颜色*/
+$primary-link-color: $primary-color400;
+
+/*hover颜色*/
+$primary-hover-color: $primary-color300;
+
+/*select颜色*/
+$primary-select-color: $primary-color500;
+
+/*辅助色*/
+$auxiliary-color: #00B479;
+
+/*删除*/
+$primary-delete-color: #E53935;
+
+/*错误*/
+$primary-error-color: #EF5D63;
+
+/*二级标题颜色*/
+$subTitle-color: #999999;
+
+/*边框颜色*/
+$border-color: #D2D2DA;
+
+/*圆角*/
+$border-size: 8px;
+
+/*按钮间隔*/
+$btn-interval: 8px;
+
+/*表格中操作间隔*/
+$table-option-interval: 8px;
